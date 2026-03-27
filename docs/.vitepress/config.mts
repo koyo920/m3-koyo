@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/m3-koyo/',
   title: 'M3 F80 Archive',
   description: '11万km超のF80 M3を長く乗り続けるための記録',
   lang: 'ja',
